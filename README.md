@@ -1,6 +1,9 @@
 # Docling RAG Agent
 
-> Attribution: This repository is largely based on work by Cole Medin (`coleam00`) from the Ottomator Agents project: https://github.com/coleam00/ottomator-agents/tree/main/docling-rag-agent
+## Attribution
+
+This repository is largely based on work by Cole Medin (`coleam00`) from the Ottomator Agents project:
+[https://github.com/coleam00/ottomator-agents/tree/main/docling-rag-agent](https://github.com/coleam00/ottomator-agents/tree/main/docling-rag-agent)
 
 An intelligent text-based CLI agent that provides conversational access to a knowledge base stored in PostgreSQL with PGVector. Uses RAG (Retrieval Augmented Generation) to search through embedded documents and provide contextual, accurate responses with source citations. Supports multiple document formats including audio files with Whisper transcription.
 
